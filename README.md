@@ -1,3 +1,5 @@
+# M5 Forecasting Accuracy
+
 En este repositorio se encuentra una aproximación simple de 3 diferentes técnicas diferentes a LightBGM para la predicción de la serie de tiempo. El Mayor foco se dio a el análisis de la data y su comportamiento general y específico.
 
 Esta competencia se basa en la predicción de periodos de ventas de 28 días en base a datos históricos de ventas, eventos especiales, bonos SNAP (Supplemental Nutrition Assistance Plan) y precios de venta por producto en cada tienda. La intención de la competencia es buscar la forma donde se obtenga la mayor precisión posible en la predicción de las ventas. El método de medición a utilizar seria WRMSSE (Weighted Root Mean Scale Squared Error), esto fue decisión de los organizadores, para medirla se requiere o crear una clase personal o subir los resultados obtenidos al calificador automático proveído.
