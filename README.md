@@ -19,7 +19,7 @@ Seaborn
 Pandas
 Tqdm
 
-**Nota:** Tener en cuenta que el algoritmo sencillo de FB Prophet requiere un archivo Python separado para correr y hacer uso múltiples núcleos. El segundo algoritmo de Python tiene una duración superior a 24 horas de corrida.
+**Nota:** Tener en cuenta que el algoritmo sencillo de FB Prophet requiere un archivo Python separado para correr y hacer uso múltiples núcleos. El segundo algoritmo de FB Prophet tiene una duración superior a 24 horas de corrida.
 
 Se recomiendan explorar la posibilidad de usar DeepAR y XGBoost para encontrar otros resultados por arboles jerárquicos.
 
